@@ -152,6 +152,8 @@ p a {
     font-family:verdana;
     font-size:11px;
     }
+    @media (max-width:550px)/*550*/
+{
     .header {
         line-height: 44px;
         position: relative;
@@ -289,5 +291,7 @@ p a {
       }
     
     .name_brend {
+     
         padding-left: 20%;
     }
+}
