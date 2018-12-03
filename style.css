@@ -234,8 +234,8 @@ p a {
         margin-left:55%;
         top:70%;
     }
-
-    .slider{
+ 
+    .slider img{
         display:none;
     }
     .slides{
@@ -243,8 +243,8 @@ p a {
     }
     div.wrapper{
         display:none;
-    }
-
+    } 
+*
 
     .container_in {
         display: flex;
