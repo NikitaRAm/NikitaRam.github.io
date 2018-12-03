@@ -158,7 +158,7 @@ p a {
         line-height: 44px;
         position: relative;
         z-index: 1000;
-        min-width: 920px;
+        min-width:100%;
         height: 23%;
         margin: auto;
         background:#eb2705;
